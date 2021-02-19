@@ -3,7 +3,7 @@ import MobileComponent from './components/MobileComponent'
 
 function App() {
   return (
-    <div className={App}>
+    <div className="App">
       <MobileComponent />
     </div>
   );
